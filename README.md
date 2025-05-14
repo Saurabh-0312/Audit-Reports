@@ -1,38 +1,4 @@
-```diff
-+  _____                      _ _           _____                                _                
-+ / ____|                    (_) |         |  __ \                              | |               
-+| (___   ___  ___ _   _ _ __ _| |_ _   _  | |__) |___ ___  ___  __ _ _ __ ___| |__   ___ _ __  
-+ \___ \ / _ \/ __| | | | '__| | __| | | | |  _  // _ / __|/ _ \/ _` | '__/ __| '_ \ / _ | '__| 
-+ ____) |  __| (__| |_| | |  | | |_| |_| | | | \ \  __\__ |  __| (_| | | | (__| | | |  __| |    
-+|_____/ \___|\___|\__,_|_|  |_|\__|\__, | |_|  \_\___/___/\___|\__,_|_|  \___|_| |_|\___|_|    
-+                                    __/ |                                                        
-+=========================== SECURE |___/ SYSTEM =============================
-```
 
-```diff
-- [SYSTEM ALERT]: ACCESSING SECURE BLOCKCHAIN AUDIT DATABASE
-! [STATUS]: AUTHENTICATION REQUIRED
-+ [ACCESS]: GRANTED - SECURITY CLEARANCE LEVEL 7
-```
-
-```js
-// Security Profile Loading...
-import { SecurityResearcher } from 'blockchain-security';
-import { VulnerabilityDatabase } from 'smart-contracts';
-
-// Initialize Security Scanner
-const scanner = new SecurityResearcher({
-  specialization: "Smart Contract Vulnerabilities",
-  platforms: ["CodeHawks", "Code4rena", "Sherlock"],
-  totalFindings: 13,
-  highSeverity: 7,
-  mediumSeverity: 6
-});
-
-// Execute Security Protocol
-scanner.initialize();
-scanner.displayProfile();
-```
 
 # 🛡️ Smart Contract Security Researcher Portfolio
 
