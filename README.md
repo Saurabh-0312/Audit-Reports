@@ -8,16 +8,17 @@ Professional smart contract security researcher with expertise in identifying cr
 ---
 
 ## 📊 Audit Impact Summary
-
-| Project | Platform | Vulnerabilities Found |
-|---------|:--------:|:---------------------:|
-| **Dria** | CodeHawks | **4** (2 High, 2 Medium) |
-| **QuantAMM** | CodeHawks | **2** (1 High, 1 Medium) |
-| **secondSwap** | Code4rena | **2** (1 High, 1 Medium) |
-| **Plaza Finance** | Sherlock | **2** (1 High, 1 Medium) |
-| **THORWallet** | Code4rena | **1** (1 High) |
-| **Rova** | Sherlock | **1** (1 High) |
-| **Winnables Raffles** | Sherlock | **1** (1 Medium) |
+| Project | Platform | Vulnerabilities Found | Total |
+|---------|:--------:|:---------------------:|:-----:|
+| **RAAC** | CodeHawks | 4 High, 3 Medium | **7** |
+| **Dria** | CodeHawks | 2 High, 2 Medium | **4** |
+| **QuantAMM** | CodeHawks | 1 High, 1 Medium | **2** |
+| **secondSwap** | Code4rena | 1 High, 1 Medium | **2** |
+| **Plaza Finance** | Sherlock | 1 High, 1 Medium | **2** |
+| **THORWallet** | Code4rena | 1 High | **1** |
+| **Rova** | Sherlock | 1 High | **1** |
+| **Winnables Raffles** | Sherlock | 1 Medium | **1** |
+| **TOTAL** | **All Platforms** | **11 High, 9 Medium** | **20** |
 
 ---
 
