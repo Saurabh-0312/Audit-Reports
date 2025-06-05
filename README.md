@@ -16,9 +16,9 @@ Professional smart contract security researcher with expertise in identifying cr
 | **secondSwap** | Code4rena | 1 High, 1 Medium | **2** |
 | **Plaza Finance** | Sherlock | 1 High, 1 Medium | **2** |
 | **THORWallet** | Code4rena | 1 High | **1** |
-| **Rova** | Sherlock | 1 High | **1** |
+| **Rova** | Sherlock | 1 Medium | **1** |
 | **Winnables Raffles** | Sherlock | 1 Medium | **1** |
-| **TOTAL** | **All Platforms** | **11 High, 9 Medium** | **20** |
+| **TOTAL** | **All Platforms** | **10 High, 10 Medium** | **20** |
 
 ---
 
