@@ -3,7 +3,7 @@
 # 🛡️ Smart Contract Security Researcher Portfolio
 
 ## Overview
-Professional smart contract security researcher with expertise in identifying critical vulnerabilities across DeFi protocols, DEXs, and Web3 platforms. Successfully discovered **20 vulnerabilities** (10 high-severity, 10 medium-severity) across multiple high-profile blockchain projects.
+Professional smart contract security researcher with expertise in identifying critical vulnerabilities across DeFi protocols, DEXs, and Web3 platforms. Successfully discovered **42 vulnerabilities** (20 high-severity, 20 medium-severity) across multiple high-profile blockchain projects.
 
 ---
 
