@@ -10,7 +10,7 @@ Professional smart contract security researcher with expertise in identifying cr
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
-| **Wordlings**        | Private Audit   | 7 High, 4 Medium      | **11** |
+| **Wordlings**        | Private Audit   | 5 High, 4 Medium      | **9** |
 | **Raffle**           | Private Audit   | 1 High, 2 Medium      | **3** |
 | **Raze**             | Private Audit   | 3 High, 4 Medium      | **7** |
 | **Manifest Finance** | Private Audit   | 1 High                | **1** |
@@ -22,7 +22,7 @@ Professional smart contract security researcher with expertise in identifying cr
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        | 1 Medium              | **1** |
 | **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **15 High, 16 Medium** | **42** |
+| **TOTAL**            | **All Platforms** | **20 High, 20 Medium** | **40** |
 
 
 ---
