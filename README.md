@@ -3,15 +3,16 @@
 # 🛡️ Smart Contract Security Researcher Portfolio
 
 ## Overview
-Professional smart contract security researcher with expertise in identifying critical vulnerabilities across DeFi protocols, DEXs, and Web3 platforms. Successfully discovered **40 vulnerabilities** (22 high-severity, 24 medium-severity) across multiple high-profile blockchain projects.
+Professional smart contract security researcher with expertise in identifying critical vulnerabilities across DeFi protocols, DEXs, and Web3 platforms. Successfully discovered **45 vulnerabilities** (21 high-severity, 24 medium-severity) across multiple high-profile blockchain projects.
 
 ---
 
 ## 📊 Audit Impact Summary
 | Project              | Platform       | Vulnerabilities Found | Total |
 |----------------------|:---------------:|:---------------------:|:-----:|
+| **Current finance**  | Sherlock        | 1 High, 2 Medium      | **3** |
 | **Hopex**            | Private Audit   | 2 High, 4 Medium      | **6** |
-| **Wordlings**        | Private Audit   | 5 High, 4 Medium      | **9** |
+| **Wordlings**        | Private Audit   | 4 High, 4 Medium      | **8** |
 | **Raffle**           | Private Audit   | 1 High, 2 Medium      | **3** |
 | **Raze**             | Private Audit   | 3 High, 4 Medium      | **7** |
 | **Manifest Finance** | Private Audit   | 1 High                | **1** |
@@ -23,7 +24,7 @@ Professional smart contract security researcher with expertise in identifying cr
 | **THORWallet**       | Code4rena       | 1 High                | **1** |
 | **Rova**             | Sherlock        | 1 Medium              | **1** |
 | **Winnables Raffles**| Sherlock        | 1 Medium              | **1** |
-| **TOTAL**            | **All Platforms** | **22 High, 24 Medium** | **46** |
+| **TOTAL**            | **All Platforms** | **22 High, 26 Medium** | **48** |
 
 
 ---
